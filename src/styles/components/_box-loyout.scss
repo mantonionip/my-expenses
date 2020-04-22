@@ -1,0 +1,26 @@
+.box-layout {
+    background: url('/images/bg.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.box-layout__box {
+    background: fade-out(#fff, .2);
+    border-radius: 5px;
+    padding: $l-size 5.8rem;
+    text-align: center;
+    // width: 25rem;
+}
+
+.box-layout__title {
+    font-size: $font-size-xxl-large;
+    margin: 0 0 $m-size 0;
+}
+
+.box-layout__paragraph {
+    text-transform: uppercase;
+}
