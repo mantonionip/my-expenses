@@ -5,6 +5,7 @@
 ![](public/images/screenShot.png)
 
 ## Description:
+A web app that let users to list their daily expenses with details such as date, amount, description and optional note. It also has the ability of searching items specifically based on amount and date.
 
 
 
