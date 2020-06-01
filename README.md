@@ -1,4 +1,4 @@
-# MY EXPENSES | AN APP TO RECORD & TRACK YOUR EXPENSES
+# EXPENSIFY | AN APP TO RECORD & TRACK YOUR EXPENSES
 
 [Live Demo](https://mehdi-expensify-app.herokuapp.com/)
 
