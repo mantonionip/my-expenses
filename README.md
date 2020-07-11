@@ -1,4 +1,4 @@
-# MY EXPENSES | AN APP TO RECORD & TRACK YOUR EXPENSES
+# My Expenses | A Web App To Record & Track Your Daily Expenses
 
 [Live Demo](https://mehdi-expensify-app.herokuapp.com/)
 
